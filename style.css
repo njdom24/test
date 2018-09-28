@@ -5,6 +5,16 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(139, 201, 255);
 }
+a{
+    color: red;
+    background-color: purple;
+}
+a:active{
+    color:yellow;
+}
+a:hover{
+    color:green;
+}
 h1{
     color: gray;
     margin: 5px 0px 10px 0px;
